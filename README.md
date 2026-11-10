@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=190&section=header&text=JAYKUMAR966&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20SAAS%20%7C%20AUTOMATION&descAlignY=60&descSize=14" width="100%" alt="Developer Banner" />
-</p><h1 align="center">Hi, I'm Nand Kishor Prasad 👋</h1><p align="center">
+</p><h1 align="center">Hi, I'm NandKishor Prasad 👋</h1><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;PHP+%7C+JavaScript+%7C+MySQL;Building+Modern+Web+Applications;SaaS+%7C+Automation+%7C+Cloud+Solutions" alt="Animated Introduction" />
 </p><p align="center">
   <a href="https://github.com/Jaykumar966">
